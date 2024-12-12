@@ -14,5 +14,5 @@ This task requires you to create a dashboard in Power BI that displays all the r
 
 **Average speed of answer :** This KPI measures the average time taken by agents to answer customer calls. 
 
-<  **Average handle time (talk duration) vs calls answered :** This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
+**Average handle time (talk duration) vs calls answered :** This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
 
