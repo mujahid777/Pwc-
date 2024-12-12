@@ -6,7 +6,7 @@ Create a dashboard in Power BI that reflects all relevant Key Performance Indica
 
 This task requires you to create a dashboard in Power BI that displays all the relevant KPIs and metrics related to call center trends. Possible KPIs include:
 
-< **Overall customer satisfaction :** This KPI measures the satisfaction level of customers who contacted the call center for support. 
+<**Overall customer satisfaction :** This KPI measures the satisfaction level of customers who contacted the call center for support. 
 
 < **Overall calls answered/abandoned :** This KPI measures the number of calls answered by agents versus the number of calls abandoned by customers.
 
